@@ -1,3 +1,2 @@
 # DashCheats
-DashCheats Open Souce Panel
-Todo
+DashCheats Open Source Panel
